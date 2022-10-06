@@ -1,4 +1,5 @@
 # Datascience-Practicum 1
+## Accidents in UK
 # Overview
 Road accidents is one of the main issues in the world from past many years. There are many accidents happening all over the world and are leading to the death of the person or injury. In 2020 approximately there were 1516 persons lost their lives in road accidents in UK. By using Open Road Safety Data for the 2020 dataset which is available in the government website, here i am performing data analysis, visualizations, machine learning algorithms and evaluating which model gives the best accuracy and confusion matrix in predicting the severity of accidents which will help the departments to identify the reason for accidents and take the necessary actions required to provide safety to the people.
 

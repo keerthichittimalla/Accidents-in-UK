@@ -10,7 +10,7 @@ Data was collected from the government website of UK. Here is the link for the d
 •	Road Safety Data - Vehicles 2020
 •	Road Safety Data – Accidents 2020
 
-# Steps Performed for Analysis: 
+# Steps Performed for Analysis:
 •	Data Collection from Source
 •	Data Preprocessing
 •	Data Visualization

@@ -43,4 +43,3 @@ https://stats.stackexchange.com/questions/285834/difference-between-random-fores
 
 Onel Harrison. (Sep 10, 2018). Machine Learning Basics with the K-Nearest Neighbors Algorithm
 https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761 
-

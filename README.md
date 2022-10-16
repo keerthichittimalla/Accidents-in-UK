@@ -24,6 +24,8 @@ I have worked on few Supervised machine learning algorithms to check the acciden
 •	Decision Tree
 •	Random Forest Classifier
 
+<img width="642" alt="Screen Shot 2022-09-22 at 2 33 06 PM" src="https://user-images.githubusercontent.com/70365343/196062866-94636b54-564a-48b7-809e-5da802dfd1c2.png">
+
 ## Analysis: 
 After performing all the above steps i see that Random Forest classifier has given the good results compared to other models in predicting the severity of accidents. This analysis can be helpful for either police department or government of UK to take the necessary actions and reduce the number of accidents.
 

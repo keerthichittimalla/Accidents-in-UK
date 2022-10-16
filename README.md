@@ -26,12 +26,18 @@ I have worked on few Supervised machine learning algorithms to check the acciden
 
 <img width="642" alt="Screen Shot 2022-09-22 at 2 33 06 PM" src="https://user-images.githubusercontent.com/70365343/196062866-94636b54-564a-48b7-809e-5da802dfd1c2.png">
 
+<img width="542" alt="Screen Shot 2022-09-22 at 2 33 30 PM" src="https://user-images.githubusercontent.com/70365343/196062905-b275f0d4-03a7-41ff-9395-907a5ed828ce.png">
+
+<img width="548" alt="Screen Shot 2022-09-22 at 2 33 49 PM" src="https://user-images.githubusercontent.com/70365343/196062922-e4ed8620-0c1f-43a0-8be2-66b934ed8917.png">
+
+<img width="662" alt="Screen Shot 2022-09-22 at 2 34 10 PM" src="https://user-images.githubusercontent.com/70365343/196062925-4ce0d83b-9d0e-413f-9485-be6f12683a0c.png">
+
 ## Analysis: 
 After performing all the above steps i see that Random Forest classifier has given the good results compared to other models in predicting the severity of accidents. This analysis can be helpful for either police department or government of UK to take the necessary actions and reduce the number of accidents.
 
 ## Roadblocks: 
 When i was merging the data and doing some clean up i see some issues in my code, and stack overflow has helped to overcome this error.
-While performing machine learning algorithms i see some errors but the machine learning course which i have already completed helped me to overcome this error and there are also other references which helped me to work on my project.
+While performing machine learning algorithms i see some errors but the machine learning course which i have already completed helped me to overcome this error and there are also other references provided below which helped me to work on my project.
 
 ## References: 
 Sarang Narkhede. (May 9, 2018). Understanding Confusion Matrix
